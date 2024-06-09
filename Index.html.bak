@@ -1,0 +1,2224 @@
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- css file -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+<!-- Responsive stylesheet -->
+<link rel="stylesheet" href="css/responsive.css">
+<!-- Title -->
+
+ <title>Best Market Broking and Investment Service in Alwar, Rajasthan - Switch</title>
+ <meta name="description" content="Switch  is one of the Best Market Broking and Investment Service firm assuring rational and expert advice on basis of the unexpected fluctuations of the stock market.">
+<!-- Favicon -->
+<link href="images/fevicon.png" sizes="64x64" rel="shortcut icon" type="image/x-icon">
+<link href="images/fevicon.png" sizes="64x64" rel="shortcut icon">
+<style>
+    body .ulockd-main-logo2 img {
+    max-height: 150px;
+    padding-left: 10px;
+    background: #fff;
+    border-radius: 6px;
+    padding: 0px 5px 0 5px;
+}
+body a.navbar-brand.ulockd-main-logo2 {
+    padding: 0;
+}
+.welcm-ht.col-md-7 {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+}
+.welcm-ht.col-md-7 p.ulockd-welcntxt.color-white:first-child {
+    padding: 0 20px 0 0;
+}
+    @media screen and (max-width: 767px){
+        .col-md-4.text-right {
+    text-align: center;
+}
+.welcm-ht.col-md-7 p.ulockd-welcntxt.color-white:first-child {
+    padding: 0 0px 0 0;
+}
+.welcm-ht.col-md-7 {
+    justify-content: space-between;
+    padding: 0px !important;
+}
+    }
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-28MHYHZXFM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28MHYHZXFM');
+</script>
+
+</head>
+<body>
+<div class="wrapper">
+    <div class="preloader" id="preloader">
+        <div id="pre" class="preloader_container"><!--<div class="preloader_disabler btn btn-default">Disable Preloader</div>--></div>
+    </div>
+    <div class="header-top  ulockd-bgthm" style="padding-top: 13px;padding-bottom: 35px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 text-left">
+                    <div class="welcm-ht col-md-7">
+                        <p class="ulockd-welcntxt color-white"><strong><i class="fa fa-phone"></i></strong> +91 9928224224</p>
+                        <p class="ulockd-welcntxt color-white"><strong><i class="fa fa-phone"></i></strong> +91 8949475903</p>
+						<p class="ulockd-welcntxt color-white"><strong><i class="fa fa-phone"></i></strong> +91 9810383997</p>
+                    </div>
+                <!--</div>
+                <div class="col-md-3">-->
+                    <div class="welcm-ht col-md-5">
+                        <p class="ulockd-welcntxt color-white"><strong><i class="fa fa-envelope"></i></strong> switchventurepartners@gmail.com</p>
+                    </div>
+                </div>
+                <div class="col-md-3 ">
+                    <div class="social-linked">
+                        <ul class="list-inline">
+                            <li><a class="color-white" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="color-white" href="#"><i class="fa fa-rss"></i></a></li>
+                            <li><a class="color-white" href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a class="color-white" href="#"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a class="color-white" href="#"><i class="fa fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                    <!--<a class="color-white" href="#" data-toggle="modal" data-target=".ModalDematAccount" data-whatever="@mdo"> <i class="fa fa-user" style="padding-left:10px;"></i> Open Demat Account</a>-->
+                    <a class="color-white" href="https://www.motilaloswal.com/open-demat-account/?SRC=Website&amp;pd=Header_OAO_Button" target="_blank"> <i class="fa fa-user" style="padding-left:10px;"></i> Open Demat Account</a>
+                    
+                    <div class="modal fade ModalDematAccount" tabindex="-1" role="dialog">
+                        <div class="modal-dialog modal-md" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <h4 class="modal-title text-center">Open Demat Account</h4>
+
+                                    
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-8 col-md-offset-2 text-center">
+                                            <form id="demat_account_form" name="demat_account_form" class="contact-form booking_form" style="background: transparent!important;" action="#" method="post" novalidate="novalidate">
+                                            <div class="messages"></div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_name" name="form_name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_email" name="form_email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_phone" name="form_phone" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                <!--<div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <input id="form_subject" name="form_subject" class="form-control ulockd-form-fg required" placeholder="Subject" required="required" data-error="Subject is required." type="text">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>-->
+                                                <div class="col-md-12">
+                                                    
+                                                    <div class="form-group ulockd-contact-btn">
+                                                        <input id="form_botcheck" name="form_botcheck" class="form-control" value="" type="hidden">
+                                                        <button type="submit" class="btn btn-default ulockd-btn-thm2" data-loading-text="Getting Few Sec...">SUBMIT</button>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </form>
+                                        </div>
+                                    </div>  
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="col-md-3">
+                    <div class="welcm-ht text-right">
+                        <ul class="list-inline">
+                            
+                            <li>
+                                <a class="color-white" href="#" data-toggle="modal" data-target=".bs-example-modal-md" data-whatever="@mdo"><i class="fa fa-user"></i> Sign In</a>
+                                <div class="modal fade bs-example-modal-md" tabindex="-1" role="dialog">
+                                    <div class="modal-dialog modal-md" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                <h4 class="modal-title text-center">Login</h4>
+                                                <p class="text-center">Sign in and choose your service to have access to all our service.</p>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-md-8 col-md-offset-2 text-center">
+                                                        <form class="ulockd-login-form">
+                                                            <h3><span class="flaticon-lock"></span> Login</h3>
+                                                            <p>Enter username and password to login:</p>
+                                                            <div class="form-group">
+                                                                <input type="email" class="form-control" id="email" placeholder="Email">
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <input type="password" class="form-control" placeholder="Password">
+                                                            </div>
+                                                            <button type="submit" class="btn btn-default ulockd-btn-thm2">Login to account</button>
+                                                        </form>
+                                                    </div>
+                                                </div>  
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <a class="color-white" href="#"> | </a>
+                            </li>
+                            <li>
+                                <a class="color-white" href="#" data-toggle="modal" data-target=".bs-example-modal-lg" data-whatever="@mdo"><i class="fa fa-edit"></i> Sign Up</a>
+                                <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog">
+                                    <div class="modal-dialog modal-lg" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                <h4 class="modal-title text-center" id="exampleModalLabel">Register</h4>
+                                                <p class="text-center">Sign in and choose your service to have access to all our service.</p>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-md-8 col-md-offset-2">
+                                                        <form class="ulockd-reg-form text-center row">
+                                                            <h3> <span class="flaticon-house-key"></span> Register</h3>
+                                                            <p>Join our community today:</p>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <input type="text" class="form-control" id="exampleInputNamexa" placeholder="First Name">
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <input type="text" class="form-control" id="exampleInputNamexb" placeholder="Last Name">
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <input type="email" class="form-control" id="exampleInputEmailx" placeholder="Email">
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <input type="password" class="form-control" placeholder="Password">
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <input type="password" class="form-control" placeholder="Repeat password">
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group text-center">
+                                                                    <button type="submit" class="btn btn-default ulockd-btn-thm2">Sign Me Up</button>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xxs-12 col-xs-5 col-sm-5 col-md-5">
+                                                                <a href="#" class="btn btn-lg btn-primary btn-block color-white">Facebook</a>
+                                                            </div>
+                                                            <div class="col-xxs-12 col-xs-2 col-sm-2 col-md-2">
+                                                                <a href="#">OR</a>
+                                                            </div>
+                                                            <div class="col-xxs-12 col-xs-5 col-sm-5 col-md-5">
+                                                                <a href="#" class="btn btn-lg btn-info btn-block color-white">Google</a>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>  
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+    
+    <!-- Header Styles -->
+    <header class="header-nav fixedup">
+        <div class="menu-fixed-center navbar-scrolltofixed">
+            <div class="container ulockd-pdng0">
+                <nav class="navbar navbar-default bootsnav">
+                    <!-- Start Top Search -->
+                    <div class="top-search">
+                        <div class="container">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                                <input type="text" class="form-control" placeholder="Search">
+                                <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Top Search -->
+
+                    <div class="container">
+                        <!-- Start Atribute Navigation -->
+                        <div class="attr-nav">
+                            <ul>
+                                <!--<li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
+                                        <i class="fa fa-shopping-bag"></i>
+                                        <span class="badge">3</span>
+                                    </a>
+                                    <ul class="dropdown-menu cart-list">
+                                        <li>
+                                            <a href="#" class="photo"><img src="images/shop/s1.jpg" class="cart-thumb" alt="s1.jpg"/></a>
+                                            <h6><a href="#">Delica omtantur </a></h6>
+                                            <p>2x - <span class="price">$99.99</span></p>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="photo"><img src="images/shop/s2.jpg" class="cart-thumb" alt="s2.jpg"/></a>
+                                            <h6><a href="#">Omnes ocurreret</a></h6>
+                                            <p>1x - <span class="price">$33.33</span></p>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="photo"><img src="images/shop/s3.jpg" class="cart-thumb" alt="s3.jpg"/></a>
+                                            <h6><a href="#">Agam facilisis</a></h6>
+                                            <p>2x - <span class="price">$99.99</span></p>
+                                        </li>
+                                        <li class="total">
+                                            <span class="pull-right"><strong>Total</strong>: $0.00</span>
+                                            <a href="#" class="btn btn-default btn-cart">Cart</a>
+                                        </li>
+                                    </ul>
+                                </li>-->
+                                <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                                <!--<li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li>-->
+                            </ul>
+                        </div>
+                        <!-- End Atribute Navigation -->
+                        <style type="text/css">
+                            .container
+                            {
+                                width: 85vw!important;
+                            }
+                            .btn-theme-bordered
+                            {
+                                border: 2px solid #f0ad4e!important;
+                                color: #f0ad4e!important;
+                                padding: 7px 10px!important;
+                                border-radius: 10px!important;
+                            }
+                            .btn-theme-bordered:hover
+                            {
+                                background: #f0ad4e!important;
+                                color:white!important;
+                            }
+                            .ulockd-main-logo2 img
+                            {
+                                max-height: 80px;
+                                padding-left: 10px;
+                            }
+                            .navbar
+                            {
+                                min-height: 95px;
+                            }
+                            .navbar-nav.navbar-left
+                            {
+                                margin-top: 10px;
+                            }
+                            .header-top
+                            {
+                                background: #12509c;
+                            }
+                            nav.navbar.bootsnav
+                            {
+                                border-radius: 8px;
+                                box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 8px;
+                            }
+                            @media (min-width: 768px)
+                            {
+                                .navbar-nav.navbar-left
+                                {
+                                    padding-left: 12%;
+                                }   
+                                
+                                .fixedup .navbar-scrolltofixed.scroll-to-fixed-fixed
+                                {
+                                    background: white!important;
+                                    border-bottom: solid 1px #e0e0e0!important;
+                                }
+                                .fixedup .navbar-scrolltofixed.scroll-to-fixed-fixed nav.navbar.bootsnav
+                                {
+                                    border-radius: 0px;
+                                    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+                                    border-bottom: 0!important;
+                                }
+                            }
+                            .icon_box.custom-icon-box-bordered
+                            {
+                                background: #fff;
+                                border: 1px solid #dedede;
+                                padding: 15px;
+                                border-radius: 6px;
+                                margin-bottom: 15px;
+                            }
+                            .icon_box.custom-icon-box-bordered h4
+                            {
+                                margin-bottom: 5px;
+                            }
+                            .icon_box.custom-icon-box-bordered .right-content
+                            {
+                                float: right;
+                            }
+                            .icon_box.custom-icon-box-bordered a
+                            {
+                                color: black;
+                                font-weight: bold;
+                            }
+                            .icon_box.custom-icon-box-bordered a:hover, .custom-list-icon-2 li a:hover
+                            {
+                                color:#12509c;
+                            }
+                            .custom-icon-box-ew1 .ab-thumb
+                            {
+                                margin-bottom: 15px;
+                                margin-top: 15px;
+                            }
+                            .custom-icon-box-ew1:hover .ab-thumb i
+                            {
+                                color:#12509c !important;  
+                                cursor: pointer;  
+                            }
+                            .icon_box.custom-icon-box-bordered:hover
+                            {
+                                cursor: pointer;
+                                box-shadow: -1px 1px 20px #dedede;
+                                -webkit-box-shadow: -1px 1px 20px #dedede;
+                                -moz-box-shadow: -1px 1px 20px #dedede;
+                                -ms-box-shadow: -1px 1px 20px #dedede;
+                            }
+                            .custom-list-icon-1 li ,.custom-list-icon-2 li
+                            {
+                                padding: 8px 0 8px 5px;
+                                font-size: 14px;
+                                font-weight: 600;
+                                font-family: Open Sans,sans-serif;
+                                /*background: url(/static/media/arrow.8bd60ee1.svg) no-repeat;*/
+                                background-position: 0 14px;
+                                line-height: 24px;
+                            }
+
+                            ul.custom-list-icon-1 li:before {    
+                                font-family: 'FontAwesome';
+                                content: '\f101';
+                                margin-right: 15px;
+                                color: #12509c;
+                            }
+                            ul.font-20 li
+                            {
+                                font-size: 20px!important;
+                            }
+                            ul.fw-500 li
+                            {
+                                font-weight: 500!important;
+                            }
+                            .text-dark
+                            {
+                                color: black;
+                            }
+                            .border-right-curved-1
+                            {
+                                border-right: 1px solid #e0e3e6;
+                            }
+                            .custom-icon-box-main_wrapper
+                            {
+                                box-shadow: -1px 1px 20px #dedede;
+                                -webkit-box-shadow: -1px 1px 20px #dedede;
+                                -moz-box-shadow: -1px 1px 20px #dedede;
+                                -ms-box-shadow: -1px 1px 20px #dedede;   
+                                border-radius: 10px;
+                                padding: 10px;
+                                background: white;
+                            }
+                            .custom-right-absolute-box, .custom-left-absolute-box
+                            {
+                                max-width: 230px;
+                                padding: 20px;
+                                background: linear-gradient(to top left,#eb6400,#12509c);
+                                color: white;
+                                position: absolute;
+                                
+                                border-radius: 8px;
+                            }
+                            .custom-right-absolute-box
+                            {
+                                bottom: 40px;
+                                right: 0px;
+                            }
+                            .custom-left-absolute-box
+                            {
+                                bottom: 40px;
+                                left: 0px;
+                            }
+                            .custom-left-light-absolute-box
+                            {
+                                max-width: 350px;
+                                min-width: 300px;
+                                /*padding: 20px;*/
+                                /*background: linear-gradient(to top left,#eb6400,#12509c);
+                                color: white;*/
+                                color: #12509c;
+                                background: white;
+                                position: absolute;
+                                top: 100px;
+                                left: 0px;
+                                border-radius: 8px;
+                                box-shadow:  rgba(0, 0, 0, 0.3) 0px 0px 12px;
+                            }
+
+
+                            .custom-left-light-absolute-box ul li
+                            {
+                                color:black;
+                                padding-left: 20px;
+                                padding-right: 20px;
+                                padding-top: 10px;
+                                padding-bottom: 10px;
+                                font-size: 18px;
+                            }
+                            .custom-left-light-absolute-box ul li i
+                            {
+                                color: #12509c;
+                                padding-right: 10px;
+                                font-size: 22px;
+                            }
+
+                            .custom-left-light-absolute-box ul li:first-child
+                            {
+                                padding-top: 25px;
+                            }
+                            /*
+                                f0ad4e warning
+                                5cb85c success
+                                d9534f danger
+                            */
+                            .risk-signal span
+                            {
+                                display: inline-flex;
+                                flex-direction: row;
+                                width: 5px;
+                                height: 15px;
+                                background: #dedede;
+                                border-radius: 10px;
+                                margin-right: 2px;
+                            }
+                            .risk-signal.low span:first-child, .risk-signal.medium span:first-child, .risk-signal.high span:first-child
+                            {
+                                background: #5cb85c;
+                            }
+                            .risk-signal.medium span:nth-child(2), .risk-signal.high span:nth-child(2)
+                            {
+                                background: #f0ad4e;
+                            }
+                            .risk-signal.high span:last-child
+                            {
+                                background: #d9534f;
+                            }
+                            .custom-trade-box 
+                            {
+                                border : 1px solid #dedede;
+                                background: white;
+                                padding: 15px;
+                                border-radius: 10px;
+                                margin-bottom: 30px;
+                            }
+                            .custom-trade-box:hover
+                            {
+                                box-shadow: -1px 1px 20px #dedede;
+                                cursor: pointer;
+                            }
+                            .custom-trade-box:hover .trade-title
+                            {
+                                color: #f0ad4e;
+                            }
+                            .custom-trade-box .trade-title
+                            {
+                                font-size: 20px;
+                                color: black;
+                                text-align: left;
+                                width: 50%;
+                            }
+                            .custom-trade-box .trade-small-sub
+                            {
+                                font-size: 13px;
+                                text-align: right;
+                                float: right;
+                                width: 50%;   
+                                font-weight: 400;
+                            }
+                            .custom-trade-box  .button-wrapper
+                            {
+                                margin-top: 20px;
+                            }
+                            .custom-trade-box  .button-wrapper .btn
+                            {
+                                position: absolute;
+                                top: -5px;
+                                left: 35%;
+                            }
+                            .custom-trade-box .trade-col-wrapper
+                            {
+                                margin-top: 20px;
+                            }
+                            .custom-trade-box .trade-col-wrapper .trade-col
+                            {
+                                padding-left: 0!important;
+                                
+                            }
+                            .custom-trade-box .trade-col-wrapper .trade-col .trade-col-title
+                            {
+                                font-weight: 400;
+                            }
+                            .custom-trade-box .trade-col-wrapper .trade-col .trade-col-desc
+                            {
+                                color: black;
+                            }
+                            .custom-left-light-absolute-box ul li:last-child
+                            {
+                                padding-bottom: 25px;
+                            }
+                            .owl-theme .owl-nav [class*=owl-]:hover
+                            {
+                                background: #12509c;
+                            }
+                            .border-radius-8p
+                            {
+                                border-radius: 8px;
+                            }
+                            .grey-border-1p
+                            {
+                                border: 1px solid #dedede;
+                            }
+                            .white-back
+                            {
+                                background: white;
+                            }
+                            .custom-border-about-box
+                            {
+                                border: 1px solid #dedede;   
+                                background: white;
+                                border-radius: 8px;
+                                padding-bottom: 25px;
+                            }
+                            .custom-border-about-box button
+                            {
+                                border-radius: 8px;
+                            }
+
+                            .custom-50-overlay
+                            {
+                                background-size: cover;height: 70vh;position: absolute;z-index: 0;width: 100%;
+                            }
+                            .text-light
+                            {
+                                color:white!important;
+                            }
+                            .no-border
+                            {
+                                border:0!important;
+                            }
+                            #color-style-switcher .bottom
+                            {
+                                display: none!important;
+                            }
+                            .ulockd-faq-content .panel-default  .panel-heading
+                            {
+                                background: transparent!important;
+                                color: black;
+                                border-color:#f0ad4e;
+                            }
+                            .ulockd-faq-content .panel-default  .panel-heading:hover *
+                            {
+                                color: black!important;
+                            }
+                            .ulockd-faq-box .panel .panel-title a i
+                            {
+                                background: transparent!important;
+                                color: black!important;
+                            }
+                            .tab-content .tab-pane
+                            {
+                                margin:25px;
+                            }
+                            .primary-team-section .team-member-two img
+                            {
+                                max-height: 500px;
+                            }
+                            @media (min-width: 991px)
+                            {
+                                .primary-team-section .team-two-details
+                                {
+                                    bottom: -22vh!important;
+                                }
+                                .other-team-section .team-two-details
+                                {
+                                    bottom: -63%!important;
+                                }
+                                .team-member-two:hover .team-two-details
+                                {
+                                    bottom: 0!important;   
+                                }
+                            }
+                            @media (min-width: 1500px)
+                            {
+                                .primary-team-section .team-two-details
+                                {
+                                    bottom: -25vh!important;
+                                }
+                                .other-team-section .team-two-details
+                                {
+                                    bottom: -56%!important;
+                                }
+                                .team-member-two:hover .team-two-details
+                                {
+                                    bottom: 0!important;   
+                                }
+                                .custom-list-icon-1 li ,.custom-list-icon-2 li
+                                {
+                                    font-size: 16px;
+                                }
+                            }
+                            .nav-fill .nav-item
+                            {
+                                -webkit-box-flex: 1;
+                                -ms-flex: 1 1 auto;
+                                flex: 1 1 auto;
+                                text-align: center;
+                            }
+                            .nav-fill
+                            {
+                                display: flex;
+                            }
+                            .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover
+                            {
+                                background: #12509c;
+                            }
+                            .m-h-350p
+                            {
+                                max-height: 350px!important;
+                            }
+                            .nav-pills>li>a:focus, .nav-pills>li>a:hover
+                            {
+                                background:   #12509c40;
+                            }
+                            .nav-lg .nav-item a.nav-link
+                            {
+                                font-size:19px;
+                                font-weight: bold;
+                                padding: 22px 15px;
+                            }
+                            .text-light-shadow
+                            {
+                                text-shadow: 0 0 2px #12509c, 0 0 10px #000;
+                            }
+                            .m-b20p
+                            {
+                                margin-bottom: 20px;
+                            }
+                            .m-t20p
+                            {
+                                margin-top: 20px;
+                            }
+                            .n-p-r
+                            {
+                                padding-right: 0!important;
+                            }
+                            .n-p-l
+                            {
+                                padding-left: 0!important;
+                            }
+                            .n-m-r
+                            {
+                                margin-right: 0!important;
+                            }
+                            .n-m-l
+                            {
+                                margin-left: 0!important;
+                            }
+                            .cust-read-more-li
+                            {
+                                display: none;
+                            }
+                            .custom_white_form
+                            {
+                                background: white;
+                                box-shadow: 0 0px 15px 0px rgba(0, 0, 0, 0.2);
+                            }
+
+                        </style>
+                        <!-- Start Header Navigation -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <a class="navbar-brand ulockd-main-logo2" href="#brand">
+                                <img src="images/logo.png" class="logo logo-scrolled" alt="">
+                            </a>
+                        </div>
+                        <!-- End Header Navigation -->
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="navbar-menu">
+                            <ul class="nav navbar-nav navbar-left" data-in="fadeIn">
+                                <li class="dropdown">
+                                    <a href="Index.html" class="active">Home</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="AboutUs.html" class="">About Us</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="Services.html" class="">Key Services</a>
+                                </li>
+                                
+                                <!--<li class="dropdown megamenu-fw">
+                                    <a href="#" class="dropdown-toggle " data-toggle="dropdown">Key Services</a>
+                                    <ul class="dropdown-menu megamenu-content" role="menu">
+                                        <li>
+                                            <div class="row">
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">Invest In</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            <li><a href="EquityDerivativeTrading" class="">Equity/Derivatives</a></li>
+                                                            <li><a href="InvestComodity" class="">Comodities</a></li>
+                                                            <li><a href="CurrancyTrading" class="">Currency</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">&nbsp;</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            <li><a href="#">Mutual Funds</a></li>
+                                                            <li><a href="Insurance" class="">Insurance</a></li>
+                                                            <li><a href="#">IPO/Bonds/FD</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">&nbsp;</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            <li><a href="#">E Gold</a></li>
+                                                            <li><a href="#">PMS</a></li>
+                                                            <li></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>-->
+                                <!--<li class="dropdown megamenu-fw">
+                                    <a href="#" class="dropdown-toggle " data-toggle="dropdown">Help Me Invest</a>
+                                    <ul class="dropdown-menu megamenu-content" role="menu">
+                                        <li>
+                                            <div class="row">
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">&nbsp;</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            <li><a href="HelpMeInvest" class="">Overview</a></li>
+                                                            <li><a href="IntelligentAdvisoryPortfolio" class="">Intelligent Advisory Portfolio</a></li>
+                                                            <li><a href="InvestSIP" class="">Start SIP</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">&nbsp;</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            
+                                                            <li><a href="#">Improve My Portfolio</a></li>
+                                                            <li><a href="#">Dont Know Where to invest</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                
+                                                <div class="col-menu col-md-4">
+                                                    <h4 class="title">Video Demo</h4>
+                                                    <div class="content">
+                                                        <ul class="menu-col">
+                                                            <li>
+                                                                <div class="ulockd-project-sm-thumb">
+                                                                    <iframe src="https://player.vimeo.com/video/176916362?title=0&amp;byline=0&amp;portrait=0&amp;color=f2f2ea" allowfullscreen></iframe>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="TradersCorner" class="" >Trader's Corner</a>
+                                    
+                                </li>-->
+                                <!--<li class="dropdown">
+                                    <a href="SuccessStories" class="" >Success Stories</a>
+                                </li>-->
+                                <li class="dropdown">
+                                    <a href="FinancialTools.html" class="">Tools</a>
+                                </li>
+                                <!--<li class="dropdown">
+                                    <a href="FAQ" class="" >FAQ's</a>
+                                </li>-->
+                                <li class="dropdown">
+                                    <a href="sub_broker.html" class="">Subbrokers</a>
+                                </li>
+                                <li class="dropdown"><a href="https://blog.elegantwealthmanagement.com"> Blog</a></li>
+                                <li class="dropdown">
+                                    <a href="ContactUs.html" class="">Contact Us</a>
+                                </li>
+                                
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+                    </div>   
+
+                    <!-- Start Side Menu -->
+                    <div class="side">
+                        <a href="#" class="close-side"><i class="fa fa-times"></i></a>
+                        <div class="widget">
+                            <!--<h4 class="title">Custom Pages</h4>-->
+                            <ul class="link" style="padding-top: 60px;">
+                                <li style="padding-bottom: 15px; padding-top: 15px; border-bottom: 1px solid white;border-top: 1px solid white;"><a href="#">MOSE</a></li>
+                                <li style="padding-bottom: 15px; padding-top: 15px; border-bottom: 1px solid white;"><a href="#">Markets</a></li>
+                                <li style="padding-bottom: 15px; padding-top: 15px; border-bottom: 1px solid white;"><a href="#">Research Reports</a></li>
+                                <li style="padding-bottom: 15px; padding-top: 15px; border-bottom: 1px solid white;"><a href="#">Refer &amp; Earn</a></li>
+                                <li style="padding-bottom: 15px; padding-top: 15px; border-bottom: 1px solid white;"><a href="#">FAQ</a></li>
+                            </ul>
+                        </div>
+                        <!--<div class="widget">
+                            <h4 class="title">Additional Links</h4>
+                            <ul class="link">
+                                <li><a href="#">Retina Homepage</a></li>
+                                <li><a href="#">New Page Examples</a></li>
+                                <li><a href="#">Parallax Sections</a></li>
+                                <li><a href="#">Shortcode Central</a></li>
+                                <li><a href="#">Ultimate Font Collection</a></li>
+                                <li><img title="Facebook Feed With Client File" class="img-responsive ulockd-mrgn1210" src="images/resource/image3.png" alt="image3.png"></li>
+                            </ul>
+                        </div>-->
+                    </div>
+                    <!-- End Side Menu -->
+                </nav>
+            </div>
+        </div>      
+    </header>
+                
+<style type="text/css">
+
+    .slick-slide {
+    margin: 10px 40px;
+  }
+  /* the parent */
+  .slick-list {
+    margin: 0 -27px;
+  }
+  .slide_custom_container
+  {
+    margin-top: 20%;
+  }
+  @media (max-width: 1600px)
+  {
+    .slide_custom_container
+    {
+        margin-top: 18%;
+    } 
+  }
+  @media (min-width: 1100px) and (max-width: 1350px)
+  {
+    .slide_custom_container .lbox-caption .lbox-details h1
+    {
+        font-size: 38px!important;
+    }
+    .slide_custom_container .lbox-caption .lbox-details h2
+    {
+        font-size: 25px!important;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 1099px)
+  {
+    .slide_custom_container .lbox-caption .lbox-details h1
+    {
+        font-size: 33px!important;
+    }
+    .slide_custom_container .lbox-caption .lbox-details h2
+    {
+        font-size: 21px!important;
+    }
+  }
+  @media  (max-width: 767px)
+  {
+    .slide_custom_container .lbox-caption .lbox-details h1
+    {
+        font-size: 25px!important;
+    }
+    .slide_custom_container .lbox-caption .lbox-details h2
+    {
+        font-size: 18px!important;
+    }
+  }
+</style>
+        <!-- Home Design -->
+    <div class="ulockd-home-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="pogoSlider" id="js-main-slider">
+                    <div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000" style="background-image:url(images/Goal.webp);">
+                        <div class="container ulockd-pdng0 slide_custom_container">
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <!--<h1 class="fz60">Welcome To  Elegant Wealth </h1>
+                                            <h2 class="ulockd-mrgn120">Start Mining & Trading</h2>-->
+                                            <h1 class="fz60 text-light-shadow">Your gateway to financial growth</h1>
+                                            <h2 class="ulockd-mrgn120 text-light-shadow">Empowering you to invest wisely</h2>
+                                            <!--<button class="btn btn-lg ulockd-btn-thm2">Get Quote</button>
+                                            <button class="btn btn-lg ulockd-btn-styledark">More Info</button>-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--<div class="col-md-6 text-center"></div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="2000" style="background-image:url(images/opportunity.webp);">
+                        <div class="container ulockd-pdng0 slide_custom_container">
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <h1 class="fz45 text-light-shadow">Navigating the market, maximizing returns.</h1>
+                                            <h2 class="ulockd-mrgn120 text-light-shadow">Your trusted partner in market investments</h2>
+                                            <!--<button class="btn btn-lg ulockd-btn-thm2">More Info</button>
+                                            <button class="btn btn-lg ulockd-btn-styledark">Contact Us</button>-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--<div class="col-md-6 text-center"></div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pogoSlider-slide" data-transition="verticalSlide" data-duration="3000" style="background-image:url(images/Stock_trading.webp);">
+                        <div class="container ulockd-pdng0 slide_custom_container">
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details text-left">
+                                            
+                                            <h1 class="fz48 text-light-shadow">Enroll with Us for Stock Trading!</h1>
+                                            <h2 class="ulockd-mrgn120 text-light-shadow">Open a De-mat Account with us to know more!</h2>
+                                            <!--<button class="btn btn-lg ulockd-btn-thm2">Free Consulting</button>
+                                            <button class="btn btn-lg ulockd-btn-blue">Explore Service</button>-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--<div class="col-md-6 text-center"></div>-->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                </div><!-- .pogoSlider -->
+                <!--<div class="">
+                    <div class="col-lg-offset-9 col-lg-3 col-md-offset-8 col-md-4 absolute-slider-form text-center">
+                        <h3 style="color:black;padding-bottom: 20px;">Open a Demat account by submitting your details </h3>
+                                        <form id="demat_account_form" name="demat_account_form" class="contact-form" action="#" method="post" novalidate="novalidate">
+                                            <div class="messages"></div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_name" name="form_name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_email" name="form_email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <input id="form_phone" name="form_phone" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
+                                                        <div class="help-block with-errors"></div>
+                                                    </div>
+                                                </div>
+                                                
+                                                <div class="col-md-12">
+                                                    
+                                                    <div class="form-group ulockd-contact-btn">
+                                                        <input id="form_botcheck" name="form_botcheck" class="form-control" value="" type="hidden">
+                                                        <button type="submit" class="btn btn-default ulockd-btn-thm" data-loading-text="Getting Few Sec...">SUBMIT</button>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </form>    
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Header Header Top -->
+    <!--<div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="about-box">
+                        <script>
+                            baseUrl = "https://widgets.cryptocompare.com/";
+                            var scripts = document.getElementsByTagName("script");
+                            var embedder = scripts[scripts.length - 1];
+                            var cccTheme = { "General": { "enableMarquee": true } };
+                            (function() {
+                                var appName = encodeURIComponent(window.location.hostname);
+                                if (appName == "") { appName = "local"; }
+                                var s = document.createElement("script");
+                                s.type = "text/javascript";
+                                s.async = true;
+                                var theUrl = baseUrl + 'serve/v3/coin/header?fsyms=BTC,ETH,XMR,LTC,DASH&tsyms=BTC,USD,CNY,EUR';
+                                s.src = theUrl + (theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+                                embedder.parentNode.appendChild(s);
+                            })();
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    
+    <!-- Our Feature Service-->
+    <!--<section class="ulockd-divider overlay-tc9 ulockd_bgi1">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <div class="service-box">
+                        <div class="icon"><span class="flaticon-checkbox-pen-outline"></span></div>
+                        <h3 class="title">SignUp Or Join</h3>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="service-box">
+                        <div class="icon"><span class="flaticon-money-107"></span></div>
+                        <h3 class="title">Instant Transection</h3>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="service-box">
+                        <div class="icon"><span class="flaticon-bitcoin-trolley"></span></div>
+                        <h3 class="title">Buy or Sell Coin</h3>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="service-box">
+                        <div class="icon"><span class="flaticon-graphic"></span></div>
+                        <h3 class="title">Active Trading</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    <section class="ulockd-feature-box" style="padding-top: 50px;">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-12 text-center">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="mt-separator">WHY US?</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row" style="margin-top: 50px;">
+                <div class="col-md-12 why_us_section_wrapper">
+                    <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                        <div class="icon-box3 text-center wow fadeInUp" data-wow-duration="1.9s">
+                            <div class="ab-thumb">
+                                <div class="about-icon text-center"><i class="fa fa-industry"></i></div>
+                            </div>
+                            <div class="ib-details">
+                                <h3>Trustworthy and Transparent</h3>
+                                <p class="small">We prioritize integrity and transparency in all our dealings, ensuring you can trust our guidance</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                        <div class="icon-box3 text-center wow fadeInUp" data-wow-duration="1.9s">
+                            <div class="ab-thumb">
+                                <div class="about-icon text-center"><i class="fa fa-user-secret"></i></div>
+                            </div>
+                            <div class="ib-details">
+                                <h3>Client-Centric Approach</h3>
+                                <p class="small">Your success is our success. We focus on long-term relationships, prioritizing your needs and goals.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                        <div class="icon-box3 text-center wow fadeInUp" data-wow-duration="1.9s">
+                            <div class="ab-thumb">
+                                <div class="about-icon text-center"><i class="fa fa-file-text"></i></div>
+                            </div>
+                            <div class="ib-details">
+                                <h3>Innovative Technologys</h3>
+                                <p class="small">Leverage cutting-edge technology and analytics to enhance your trading and investment strategies.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                        <div class="icon-box3 text-center wow fadeInUp" data-wow-duration="1.9s">
+                            <div class="ab-thumb">
+                                <div class="about-icon text-center"><i class="fa fa-line-chart"></i></div>
+                            </div>
+                            <div class="ib-details">
+                                <h3>Innovation</h3>
+                                <p class="small">We follow thinking that always follows tactics out of the ordinary to ensure that you receive extraordinary results that make your investment and patience worth the while.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Our Feature -->
+    <section class="ulockd-feature-box bgc-snowshade2">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120">OUR ADVANTAGES</h2>
+                            <p class="lead  ulockd-mrgn610">Borkerage Plus Services | Trading can be done online or ofline </p>
+                        </div>
+                        <div class="details">
+                            <h4 class="text-thm2">Key Features Of Elegant Wealth Platforms</h4>
+                            <!--<div class="row">
+                                <div class="col-md-6">
+                                    <ul class="custom-list-icon-1">
+                                        <li>User-friendly approach</li>
+                                        <li>Rational and Timely advice </li>
+                                        <li>Dedicated client support services</li>
+                                        <li>Transparency in managing your investment</li>
+                                        
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="custom-list-icon-1">
+                                        <li>Focused on quality portfolio</li>
+                                        
+                                        <li>Expert Management</li>
+                                        <li>Schemes for Every Financial Goal</li>
+                                        <li>Proper Diversification</li>
+                                    </ul>
+                                </div>
+
+                            </div>-->
+                            <ul class="custom-list-icon-1">
+                                <li>Our esteemed clients can use their services anytime they want with our user-friendly app and approach.</li> 
+                                <li>We assure on-the-spot rational and expert advice on basis of the unexpected fluctuations of the stock market.</li> 
+                                <li>We dedicate our complete and enclosed rapport to our clients by offering them our unconditional support</li> 
+                                <li>We can create a portfolio with explicit diversification that will provide you a substantial amount of ROI.</li> 
+                                <li class="cust-read-more-li">Your investments will be managed with the utmost accuracy and utter transparency.</li> 
+                                <li class="cust-read-more-li">Our finance team is here to ensure your best financial health with our experience, courtesy, and precision.</li>
+                                <li class="cust-read-more-li">We have elaborate and beneficial schemes for you that can yield their results in your portfolio management, intraday trading, and mutual fund investment plans.</li> 
+                                <li class="cust-read-more-li">Our company provides precise diversification based on various company analyses, their assets, yearly budget analysis, and an exclusive portfolio of shares that will give you a high ROI.</li>
+                                <div class="text-center"><button type="button" onclick="ReadMoreList(this);" class="btn-default btn text-thm2" data-val="0">Read More</button></div>
+                            </ul>
+                            <a class="btn btn-default ulockd-btn-thm2" href="https://www.motilaloswal.com/open-demat-account/?SRC=Website&amp;pd=Header_OAO_Button" target="_blank"> Click To Open Account</a>
+                            <!--<a class="btn btn-default ulockd-btn-thm2" href="#" data-toggle="modal" data-target=".ModalDematAccount"> Click To Open Account</a>-->
+                            
+                            <!--<div class="row mt-5">
+                                <div class="col-md-4 col-xs-12">
+                                    <h4 class="text-dark"><b>Available On:</b></h4>
+                                </div>
+                                <div class="col-md-8 col-xs-12">
+                                    <img src="images/play-app-store-vertical.png">
+                                </div>
+                            </div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <div class="one-grid-slider-with-nav">
+                        
+                        <div class="item">
+                            <div class="gs-thumb">
+                                <img class="img-responsive img-whp" src="images/advantages.webp" alt="5.png">
+                                <div class="gallery-overlay">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <a class="lightbox-image" data-fancybox-group="preject" href="images/5.png">
+                                                <span class="flaticon-focus"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="gs-thumb">
+                                <img class="img-responsive img-whp" src="images/Dadicated.webp" alt="5.png">
+                                <div class="gallery-overlay">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <a class="lightbox-image" data-fancybox-group="preject" href="images/5.png">
+                                                <span class="flaticon-focus"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="gs-thumb">
+                                <img class="img-responsive img-whp" src="images/Focus.webp" alt="5.png">
+                                <div class="gallery-overlay">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <a class="lightbox-image" data-fancybox-group="preject" href="images/5.png">
+                                                <span class="flaticon-focus"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="gs-thumb">
+                                <img class="img-responsive img-whp" src="images/user_friendly.webp" alt="5.png">
+                                <div class="gallery-overlay">
+                                    <div class="lbox-caption">
+                                        <div class="lbox-details">
+                                            <a class="lightbox-image" data-fancybox-group="preject" href="images/5.png">
+                                                <span class="flaticon-focus"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="ulockd-feature-box" style="padding-top: 0!important;">
+        
+        
+        <div style="background: url(images/key.webp) no-repeat;" class="custom-50-overlay"></div>
+        <div class="container" style="padding-top: 100px;">
+            <div class="row">
+                
+                <div class="col-md-12 text-center">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120 text-light text-light-shadow">KEY SERVICES</h2>
+                            <p class="lead  ulockd-mrgn610 text-light text-light-shadow">Online Trading | Seamless report generation | Portfolio Tracking </p>
+                        </div>
+                        <div class="details col-md-12" style="padding-top: 50px;">
+                            <div class="col-xs-12 custom-icon-box-main_wrapper">
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-area-chart"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>Equity/Derivatives</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                <li>24/7 tracking</li>
+                                                <li>Secure Trading Experience</li>
+                                                <li>Investment Advise</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-files-o"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>Portfolio Management</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                
+                                                <li>Diversified Portfolio</li>
+                                                <li>Quality Stock Selection</li>
+                                                <li>High ROI Generation</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-bar-chart"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>Mutual Fund</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                <li>Cash Flow and Tax Benefits</li>
+                                                <li>Low Transaction Cost</li>
+                                                <li>Reduced risk of Investing</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+
+    <!--<section class="ulockd-feature-box" style="padding-top: 0!important;">
+        
+        
+        <div style="background: url(images/background/6.jpg) no-repeat;" class="custom-50-overlay"></div>
+        <div class="container" style="padding-top: 100px;">
+            <div class="row">
+                
+                <div class="col-md-12 text-center">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120 text-light">ALL A TRADER NEEDS</h2>
+                            <p class="lead  ulockd-mrgn610 text-light">Robust platforms | High-performance products | Modern tools | We've got you covered</p>
+                        </div>
+                        <div class="details col-md-10 col-md-offset-1" style="padding-top: 50px;">
+                            <div class="col-md-12 custom-icon-box-main_wrapper">
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-html5"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>MO PRODUCTS</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                <li><a href="#">Sensibull</a></li>
+                                                <li><a href="#">Trade Guide Signal</a></li>
+                                                <li><a href="#">Option Strategies</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-html5"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>MO SERVICES</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                <li><a href="#">40X Leverage</a></li>
+                                                <li><a href="#">Super Advance Charts</a></li>
+                                                <li><a href="#">Strategic Option Calls</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-pad395 ">
+                                    <div class="about-box2 text-center wow fadeInUp no-border" data-wow-duration="1s">
+                                        <div class="ab-thumb">
+                                            <div class="about-icon2 text-center"><i class="fa fa-html5"></i></div>
+                                        </div>
+                                        <div class="ib-details">
+                                            <h3>MO PRODUCTS</h3>
+                                            
+                                            <ul class="custom-list-icon-2">
+                                                <li><a href="#">Track & Trade in one click</a></li>
+                                                <li><a href="#">19+ Screeners</a></li>
+                                                <li><a href="#">Multiple Technical Indicators</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>-->
+    <!--<section class="ulockd-feature-box  bgc-snowshade2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120">AWARD WINNING RESEARCH</h2>
+                            <p class="lead  ulockd-mrgn610">Solid Expertise of 30 years | Stock Market Analysis Reports | Exclusive Insights from Equity Specialists</p>
+                        </div>
+                        <div class="ab-thumb">
+                            <img class="img-responsive img-whp" style="max-width: 80%;height: fit-content;" src="images/gallery/12.jpg" alt="12.jpg">
+                        </div>
+                        <div class="custom-right-absolute-box">
+                            <ul class="custom-list-icon-2">
+                                <li><label><span>100+</span> Stocks Covered</label></li>
+                                <li><label><span>45+</span> Sectors Covered</label></li>
+                                <li><label><span>80,000+</span> Research Reports</label></li>
+                                <li><label><span>40+</span> Report Types</label></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120">&nbsp;</h2>
+                            <p class="lead  ulockd-mrgn610" style="margin-bottom: 25px;">&nbsp;</p>
+                            
+                        </div>
+                        <div class="details">
+                            <div class="col-md-6">
+                                <label class="text-thm2" style="margin-bottom: 15px;"><b>LATEST REPORTS</b></label>
+                                <div class="one-grid-slider-with-nav2">
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="text-thm2" style="margin-bottom: 15px;"><b>TRENDING REPORT</b></label>
+                                <div class="one-grid-slider-with-nav2">
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="about-box text-center custom-border-about-box">
+                                            <div class="ab-thumb">
+                                                <img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="610x360">
+                                                
+                                            </div>
+                                            <div class="ib-details">
+                                                <p>02-Mar-2020</p>
+                                                <h3>Industrial Automation plays spoilsport</h3>
+                                                <button type="submit" class="btn btn-default ulockd-btn-thm2"> More Info <i class="fa fa-info"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>-->
+    <section class="ulockd-team-one bgc-snowshade2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <div class="ulockd-main-title">
+                        <h2 class="mt-separator">About Us</h2>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-6">
+                    <div class="team-one style2">
+                        <div class="ab-thumb">
+                            <img class="img-responsive img-whp" src="images/About_us.webp" alt="team1.webp">
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-6">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            
+                            <!-- <p>Elegant Wealth has been a renowned franchise of Motilal Oswal Financial Services Ltd. For marketing of MOFSL services across Saurashtra. We personalize especially in wealth planning so your financial planning never goes off the success track. We understand your quest for money which takes away your patience as well as time. But we at Elegant Wealth hold transparent solutions to your challenges and teach you how to plan and manage your finance with new techniques. </p> -->
+                            <p>Elegant Wealth is a renowned franchise of Motilal Oswal Financial Services Ltd. For marketing of MOFSL services across Saurashtra. We personalize especially in  wealth planning so your finance never goes off the success track. We understand your quest for money which steals your patience as well as time. We at Elegant Wealth hold transparent solutions to your challenges and teach you how to plan and manage your finance with new techniques so that all is taken care of</p>
+
+                            <p>We are working as an extensive group of 35+ partners who have created a paradigm shift in the way investors perceive equities in Saurashtra. We have been successful in achieving success for all their financial endeavors. Though finance is a total of numbers, it is an art which had been mastered by Mr. Samir Chag due to which he established the company in 2001. His wide experience in equity markets of 25 years has broadened the company’s perspective to a large extent. Mr. Nishant Chag has carried forward his prodigy by joining in 2011 after completing his MBA and CFA. The father-son dynamism has taken the company to great heights.</p> 
+                            <p>Currently, they are managing an AUM of 60 crores in mutual funds and PMS.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </section>
+    <!--<section class="ulockd-team-one">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <div class="ulockd-main-title">
+                        <h2 class="mt-separator">Director Profile</h2>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+                    <div class="team-one style2">
+                        <div class="team-thumb">
+                            <img class="img-responsive img-whp" src="images/team/1.jpg" alt="team1.jpg">
+                        </div>
+                        <div class="team-details text-left">
+                            <h3 class="member-name">Nishant Chag</h3>
+                            <h5 class="member-post">- Managing Director</h5>
+                            <ul class="list-inline team-icon">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                
+                                <li><a href="mailto:nish8512@gmail.com"><i class="fa fa-envelope"></i> Email</a></li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-8">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <ul class="list-unstyled ulockd-pesonar-info">
+                                <li><strong>Name :</strong> Nishant Chag.</li>
+                                <li><strong>Profession :</strong> Financial planner.</li>
+                                
+                                <li><strong>Address :</strong> 401, Hem Arcade, Dr. Yagnik Road Rajkot.</li>
+                                <li><strong>Contact :</strong> +91 98242 10715</li>
+                                <li><strong>Mail :</strong> mailto:nish8512@gmail.com .</li>
+                                
+                            </ul>
+                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
+                            <p>This is Our Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste commodi animi, totam earum harum quibusdam dolor dolore magnam! Temporibus laborum quas sint. Beatae eos odit doloremque repellendus sequi libero vero, eius excepturi, est deleniti dignissimos totam earum iste rerum atque ut voluptatem soluta officiis, necessitatibus. Sapiente doloribus, suscipit inventore sit.</p>
+                            <p>This is Our Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste commodi animi, totam earum harum quibusdam dolor dolore magnam! Temporibus laborum quas sint.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </section>-->
+    
+    
+
+    <section class="ulockd-feature-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <div class="ulockd-main-title">
+                        <h2 class="mt-separator">Philosophy</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <!--<div class="title">
+                            <h2 class="ulockd-mrgn120">Philosophy</h2>
+                            
+                        </div>-->
+                        <div class="details">
+                            <p>Elegant Wealth is the Best Financial Advisory Company that identifies its customer requirements and works accordingly. We develop the right customer solutions for our clients which when attached to our platforms show unique results. We recommend what is perfect for the client and nothing less. We provide uncompromised professionalism in what we do due to our experience in several markets, market conditions, and asset classes.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="about-box">
+                        <div class="ab-thumb">
+                            <img class="img-responsive img-whp" src="images/philosophy.webp" alt="philosophy">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ulockd-feature-box  bgc-snowshade2">
+        <div class="container">
+            <!--<div class="row">
+                
+                <div class="col-md-12">
+                    <div class="about-box">
+                        <div class="title">
+                            <h2 class="ulockd-mrgn120">WHAT OUR CUSTOMERS SAY</h2>
+                            <p class="lead  ulockd-mrgn610">Reviews, comments from our customers and community.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <div class="ulockd-main-title">
+                        <h2 class="mt-separator">WHAT OUR CUSTOMERS SAY</h2>
+                        <p class="lead  ulockd-mrgn610">Reviews, comments from our customers and community.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 50px;">
+                <div class="col-md-12">
+                    <div class="testimonial_center" style="padding: 20px;background: #fafafa;">
+                        <div class="ulockd-testimonials text-center storries_inner_section">
+                            <h4><i class="flaticon-right-quotes-symbol fz30 text-thm2"></i></h4>
+                            <!--<p class="lead">Project Timing</p>-->
+                            <div class="testi-details">
+                                <p>I’m Ar. Satish Vora from Rajkot, practicing as senior architect consultant for more than 50years and still learning.</p>
+
+                                <p>Myself and Mr. Sameer Chag are associated since 20 years with financial terms. He is driven, organized person who develops cordial relationships with clients. As foresight personality who takes calculated risks and grabs the foreseen opportunities which in turn reflect his command over-analysis of facts and figures of the finance domain.</p><p> It’s not only about various candlestick patterns and technical indicators to fetch high returns. His sound knowledge leads to high degree of returns in odd situations as well and gets high profit spikes in your funds. </p>
+                            </div>
+                            <div class="testi-thumb">
+                                
+                                <h4>Satish Vora  <small>(B. Arch) </small></h4>
+                            </div>
+                        </div>
+                        <div class="ulockd-testimonials text-center storries_inner_section">
+                            <h4><i class="flaticon-right-quotes-symbol fz30 text-thm2"></i></h4>
+                            <!--<p class="lead">Project Timing</p>-->
+                            <div class="testi-details">
+                                <p>I am Dr. Viral Chhaya from Jamnagar, senior practicing ENT surgeon</p>
+                                <p>I would hereby like to give a testimonial about Shri Samirbhai Chag... " A pure soul, a real friend, a real well wisher , a person who does not see relationship as business and a person who smiles on your gains and cries on your falls... But makes sure that you smile again in your falls. After the treasury in your home, your money are next best safe in hands of Shri Samirbhai Chag." </p>
+
+                                <p> I can assure you that if you put your money with him, as per his advice they are in the best of the hands and Sameerbhai puts his heart, soul, mind and expertise to make them grow</p>
+                            </div>
+                            <div class="testi-thumb">
+                                
+                                <h4>Dr. Viral Chhaya<small> (ENT surgeon)</small></h4>
+                            </div>
+                        </div>
+                        <div class="ulockd-testimonials text-center storries_inner_section">
+                            <h4><i class="flaticon-right-quotes-symbol fz30 text-thm2"></i></h4>
+                            <!--<p class="lead">Project Timing</p>-->
+                            <div class="testi-details">
+                                
+                                <p>Nishant and elegant team is very professional and highly committed to their work and support. They have given me excellent advise for managing my finance, and I have planned my finance and invested according to their advise in mutual fund and stocks .They have made my investment very easy and in right direction. As I do not know much about economy &amp; investments but due to their support now it is very easy for me.Thank you so much Nishat Chag and Elegant team. </p>
+
+                                
+                            </div>
+                            <div class="testi-thumb">
+                                
+                                <h4>Dr. Anand Jasani<small> (City Dental Hospital)</small></h4>
+                            </div>
+                            <div class="text-center"><img src="images/city_dental_hospital.png" style="height: 60px;margin: 0 auto;"></div>
+                        </div>
+                        
+                        <div class="ulockd-testimonials text-center storries_inner_section">
+                            <h4><i class="flaticon-right-quotes-symbol fz30 text-thm2"></i></h4>
+                            <!--<p class="lead">Project Timing</p>-->
+                            <div class="testi-details">
+                                <p>I am highly impressed by the stock market knowledge Nishant has. He is supremely skilled in his work and possesses a good sense of prediction. He plays the role of my PMS, it is because of Nishant that I have got handsome returns in a couple of months. I would personally recommend to invest at least once with the knowledge of Nishant Chag and get striking profits on your funds.</p>
+                                <p>Planning is bringing the future into the present. Nishant, is the one who is one of the best persons I have ever known who helps bringing better future into the present.</p>
+
+                                <p>I feel proud tube bestowed with an advisor like you.</p>
+                            </div>
+                            <div class="testi-thumb">
+                                
+                                <h4>Mr. Vijay Aghara<small> (Vbiz Solutions)</small></h4>
+
+                            </div>
+                            <a class="text-center" href="https://vbizsolutions.biz" target="_blank"><img src="images/vbiz_solutions_logo.png" style="height: 60px;margin: 0 auto;"></a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Our First Divider -->
+    <!--<section class="ulockd-divider bgc-yellow">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="color-white ulockd-mrgn120">Our Achivements</h2>
+                    <h4 class="title-bottom color-white ulockd-mrgn120 ulockd-mrgn630">&nbsp;</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonial_center" style="padding: 20px;">
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>Best Trading PlatForm</h4>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>Trusted Equity Trader</h4>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>Best Customer Service</h4>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>24/7 Assistance</h4>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>Best Trading PlatForm</h4>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="testimonial-grid achivement_slide text-center">
+                            <div class="t_thumb">
+                                <img class="img-responsive" style="height:75px;" src="images/award-trophy.png" alt="2.jpg">
+                            </div>
+                            <div class="t_details">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste. </p>
+                                <h4>Trusted Mutual Fund Trader</h4>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+    </section>-->
+    <!-- Home Design Inner Pages -->
+    <!--<section class="ulockd-ip-latest-news ulockd-feature-box ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <div class="ulockd-main-title">
+                        <h2 class="mt-separator">Latest Blogs</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-ext-spc">
+                    <div class="ulockd-bp-thumb">
+                        <img class="img-responsive img-whp" src="images/blog/6.jpg" alt="6.jpg">
+                    </div>
+                    <div class="ulockd-bp-details style2">
+                        <div class="ulockd-bp-details">
+                            <h3 class="ulockd-bp-title">Let's Move With Blog</h3>
+                            <ul class="list-inline">
+                                <li><span>Post by: <a href="#" class="post-by"> Z Lopez </a></span></li>
+                                <li><span>In: <a href="#" class="post-by"> Unlockd </a></span></li>
+                            </ul>
+                            <div class="ulockd-bpost">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero delectus ad sequi tempora.<a class="ulockd-bp-btn" href="#">Read More</a></p>
+                            </div> <br>
+                            <ul class="list-inline">
+                                <li><a href="#"> <i class="fa fa-calendar text-thm1"> </i> 25 Jun 2017</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-comment-o text-thm1"> </i> 250</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-thumbs-up text-thm1"> </i> 230</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-share-alt text-thm1"> </i> 350</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-ext-spc">
+                    <div class="ulockd-bp-thumb">
+                        <img class="img-responsive img-whp" src="images/blog/7.jpg" alt="7.jpg">
+                    </div>
+                    <div class="ulockd-bp-details style2">
+                        <div class="ulockd-bp-details">
+                            <h3 class="ulockd-bp-title">Let's Move With Blog</h3>
+                            <ul class="list-inline">
+                                <li><span>Post by: <a href="#" class="post-by"> Z Lopez </a></span></li>
+                                <li><span>In: <a href="#" class="post-by"> Unlockd </a></span></li>
+                            </ul>
+                            <div class="ulockd-bpost">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero delectus ad sequi tempora.<a class="ulockd-bp-btn" href="#">Read More</a></p>
+                            </div> <br>
+                            <ul class="list-inline">
+                                <li><a href="#"> <i class="fa fa-calendar text-thm1"> </i> 25 Jun 2017</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-comment-o text-thm1"> </i> 250</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-thumbs-up text-thm1"> </i> 230</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-share-alt text-thm1"> </i> 350</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 ulockd-ext-spc">
+                    <div class="ulockd-bp-thumb">
+                        <img class="img-responsive img-whp" src="images/blog/9.jpg" alt="9.jpg">
+                    </div>
+                    <div class="ulockd-bp-details style2">
+                        <div class="ulockd-bp-details">
+                            <h3 class="ulockd-bp-title">Let's Move With Blog</h3>
+                            <ul class="list-inline">
+                                <li><span>Post by: <a href="#" class="post-by"> Z Lopez </a></span></li>
+                                <li><span>In: <a href="#" class="post-by"> Unlockd </a></span></li>
+                            </ul>
+                            <div class="ulockd-bpost">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero delectus ad sequi tempora.<a class="ulockd-bp-btn" href="#">Read More</a></p>
+                            </div> <br>
+                            <ul class="list-inline">
+                                <li><a href="#"> <i class="fa fa-calendar text-thm1"> </i> 25 Jun 2017</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-comment-o text-thm1"> </i> 250</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-thumbs-up text-thm1"> </i> 230</a></li>
+                                <li><a href="#"> |</a></li>
+                                <li><a href="#"> <i class="fa fa-share-alt text-thm1"> </i> 350</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>-->
+    <!-- Our Partner -->
+    <!--<section class="parallax ulockd_bgi4 bgc-overlay-black5" style="background-image: url(images/background/6.jpg);" data-stellar-background-ratio="0.3">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-12">
+                    <div class="about-box">
+                        <div class="title text-center" style="margin-bottom: 35px;">
+                            <h2 class="ulockd-mrgn120 text-light">Our Clients</h2>
+                            
+                        </div>
+                    </div>
+                    <div class="five-grid-slider">
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/1.png" alt="1.png"></div>
+                        </div>
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/2.png" alt="2.png"></div>
+                        </div>
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/3.png" alt="3.png"></div>
+                        </div>
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/4.png" alt="4.png"></div>
+                        </div>
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/5.png" alt="5.png"></div>
+                        </div>
+                        <div class="item" style="margin-left: 15px;">
+                            <div class="ulockd-divider-thumb text-center bgc-white"><img src="images/partners/6.png" alt="6.png"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    -->
+<!-- Our Footer -->
+    <section class="ulockd-footer ulockd-pdng0">
+        <div class="container footer-padding">
+            <div class="row">
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                    <div class="ulockd-footer-widget">
+                        <img alt="" src="images/logo.png" style="height: 100px;width: 100px;" class="img-responsive ulockd-footer-log">
+                        <p class="ulockd-ftr-text">We offer you personalized services designed to meet your needs and circumstances.</p>
+                        
+                    </div>
+                    
+                </div>
+                <!--<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                    <div class="ulockd-footer-lnews">
+                        <h3 class="text-uppercase">Latest News</h3>
+                        <div class="ulockd-media-box">
+                            <div class="media">
+                                <div class="media-left pull-left">
+                                    <a href="#">
+                                        <img class="media-object" src="images/blog/s1.jpg" alt="s1.jpg">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <a href="#" class="post-date">21 January, 2017</a>
+                                    <h4 class="media-heading">Let's Move Blog</h4>
+                                    <p>Notice coding for Alzheimer's conclusion steps nearer...</p>
+                                </div>
+                            </div>
+                            <div class="media">
+                                <div class="media-left pull-left">
+                                    <a href="#">
+                                        <img class="media-object" src="images/blog/s2.jpg" alt="s2.jpg">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <a href="#" class="post-date">21 January, 2017</a>
+                                    <h4 class="media-heading">Let's Move Blog</h4>
+                                    <p>Notice coding for Alzheimer's conclusion steps nearer...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                    <div class="link-widget">                       
+                        <h3>Quick Links</h3>
+                        <ul class="list-style-square">
+                            <li><a href="Index.html"> Home</a></li>
+                            <li><a href="AboutUs.html"> About Us</a></li>
+                            <li><a href="Services.html"> KeyServices</a></li>
+                            <li><a href="FinancialTools.html"> Tools</a></li>
+                            <li><a href="sub_broker.html"> Subbroker</a></li>
+                            <li><a href="https://blog.elegantwealthmanagement.com"> Blog</a></li>
+                            <li><a href="ContactUs.html"> Contact Us</a></li>
+                            
+                            <li><a href="Privacy-Policy.html"> Privacy Policy</a></li>
+                            <li><a href="terms-and-conditions.html"> Terms &amp; Conditions</a></li>
+                            <!-- <li><a href="#"> Disclaimer</a></li> -->
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                    <div class="link-widget">                       
+                        <h3>key Services</h3>
+                        <ul class="list-style-square">
+                            <li><a href="ServiceDetail-QCMkZXF1aXR5.html">Equity/Derivatives</a></li>
+                            <li><a href="ServiceDetail-QCMkY29tb2RpdHk%3D.html">Comodities</a></li>
+                            <li><a href="ServiceDetail-QCMkY3VycmVuY3k%3D.html">Currency</a></li>
+                            <li><a href="ServiceDetail-QCMkbXV0dWFsX2Z1bmQ%3D.html">Mutual Funds</a></li>
+                            <li><a href="ServiceDetail-QCMkaW5zdXJhbmNl.html">Insurance</a></li>
+                            <li><a href="ServiceDetail-QCMkcG1z.html">PMS</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+                    <div class="link-widget"><h3>Contact Details</h3></div>
+                    <div class="ulockd-footer-widget">
+                        
+                        <ul class="list-unstyled">
+                            <li><a href="#"><span class="fa fa-phone text-thm2"></span> +91 98242 10715</a> </li>
+                            <li><a href="#"><span class="fa fa-envelope text-thm2"></span> nish8512@gmail.com </a></li><a href="#">
+                            </a><li><a href="#"></a><a href="#"><span class="fa fa-map-signs text-thm2"></span>  401, Hem Arcade Dr. Yagnik Road Rajkot</a></li>
+                        </ul>
+                    </div>
+                    <ul class="list-inline footer-font-icon ulockd-mrgn1220">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-feed"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="ulockd-copy-right">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="color-white">Elegant Wealth Copyright© 2024. <a href="#" target="_blank">Elegant Wealth</a> All right reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>
+</div>
+<!-- Wrapper End -->
+<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootsnav.js"></script>
+<script type="text/javascript" src="js/parallax.js"></script>
+<script type="text/javascript" src="js/scrollto.js"></script>
+<script type="text/javascript" src="js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.js"></script>
+<script type="text/javascript" src="js/gallery.js"></script>
+<script type="text/javascript" src="js/wow.min.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
+<script type="text/javascript" src="js/video-player.js"></script>
+<script type="text/javascript" src="js/jquery.barfiller.js"></script>
+<script type="text/javascript" src="js/timepicker.js"></script>
+<script type="text/javascript" src="js/crypto-widget.js"></script>
+<script type="text/javascript" src="js/tweetie.js"></script>
+<script type="text/javascript" src="js/jquery.ajaxchimp.min.js"></script>
+<script type="text/javascript" src="js/custom_jquery_functions.js"></script>
+<!-- Custom script for all pages --> 
+<script type="text/javascript" src="js/color-switcher.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+
+
+
+                
+<script type="text/javascript">
+    function SetEqualHeight(class_name)
+            {
+                  var total_partners=$("."+class_name).length;
+                  //console.log(total_partners);
+                  var height_arr=[];
+                  for(var i=0;i<total_partners;i++)
+                  {
+                        height_arr[i]=$("."+class_name)[i].clientHeight;
+                        //console.log(height_arr[i]);
+                  }
+                  var max_height=Math.max(...height_arr);
+                  //max_height=max_height+5;
+                  //console.log(max_height)
+                  $("."+class_name).height(max_height);
+                  for(var i=0;i<total_partners;i++)
+                  {
+                    //console.log($("."+class_name)[i].clientHeight);
+                    $($("."+class_name)[i]).css("max-height",max_height);
+                  }
+            }
+
+            $(document).ready(function (){
+                if($(".why_us_section_wrapper .icon-box3").length && $(".why_us_section_wrapper .icon-box3").length>0)
+                {
+                    SetEqualHeight("why_us_section_wrapper .icon-box3");
+                }
+                if($(".testimonial-grid").length && $(".testimonial-grid").length>0)
+                {
+                    SetEqualHeight("testimonial-grid");
+                }
+                if($(".ulockd-testimonials").length && $(".ulockd-testimonials").length>0)
+                {
+                    SetEqualHeight("ulockd-testimonials");
+                }
+
+            });
+            
+</script></body></html>
